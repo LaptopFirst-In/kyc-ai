@@ -1,0 +1,5 @@
+{
+  "name": "VendorCheck AI",
+  "description": "AI-powered due diligence for IT rental vendors to research startups and organizations using founder names, GST numbers, or company names.",
+  "requestFramePermissions": []
+}
